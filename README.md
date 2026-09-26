@@ -37,6 +37,10 @@ Ejecuta `build.bat`. Usa el compilador de C# que ya trae Windows (.NET Framework
 
 ## Créditos
 
-- Autor: **[@kisnner26](https://github.com/kisnner26)** (diseño, icono y código).
+- Autor: **Kisnner Obando** ([@kisnner26](https://github.com/kisnner26)): diseño, icono y código.
 - Varios ajustes están inspirados en [WinUtil](https://github.com/ChrisTitusTech/winutil) de Chris Titus Tech.
 - Estética basada en [creador-de-flores](https://github.com/kisnner26/creador-de-flores).
+
+## Licencia
+
+MIT. Ver [LICENSE](LICENSE).
